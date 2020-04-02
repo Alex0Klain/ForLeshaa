@@ -14,7 +14,6 @@
 		200330D0242BC3900021910D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 200330CF242BC3900021910D /* Assets.xcassets */; };
 		200330D3242BC3900021910D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 200330D1242BC3900021910D /* LaunchScreen.storyboard */; };
 		200330DB242BC5960021910D /* SecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200330DA242BC5960021910D /* SecondController.swift */; };
-		205836372430DFEE003EC636 /* 30590628_1643057899064051_7388800537602293760_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 205836362430DFEE003EC636 /* 30590628_1643057899064051_7388800537602293760_n.jpg */; };
 		205836392430FE3D003EC636 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 205836382430FE3D003EC636 /* Podfile */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		200330D2242BC3900021910D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		200330D4242BC3900021910D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		200330DA242BC5960021910D /* SecondController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondController.swift; sourceTree = "<group>"; };
-		205836362430DFEE003EC636 /* 30590628_1643057899064051_7388800537602293760_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 30590628_1643057899064051_7388800537602293760_n.jpg; path = "../../../Mobile Documents/com~apple~CloudDocs/30590628_1643057899064051_7388800537602293760_n.jpg"; sourceTree = "<group>"; };
 		205836382430FE3D003EC636 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,7 +67,6 @@
 				200330DA242BC5960021910D /* SecondController.swift */,
 				200330CC242BC38C0021910D /* Main.storyboard */,
 				200330CF242BC3900021910D /* Assets.xcassets */,
-				205836362430DFEE003EC636 /* 30590628_1643057899064051_7388800537602293760_n.jpg */,
 				200330D1242BC3900021910D /* LaunchScreen.storyboard */,
 				200330D4242BC3900021910D /* Info.plist */,
 			);
@@ -137,7 +134,6 @@
 				205836392430FE3D003EC636 /* Podfile in Resources */,
 				200330D3242BC3900021910D /* LaunchScreen.storyboard in Resources */,
 				200330D0242BC3900021910D /* Assets.xcassets in Resources */,
-				205836372430DFEE003EC636 /* 30590628_1643057899064051_7388800537602293760_n.jpg in Resources */,
 				200330CE242BC38C0021910D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

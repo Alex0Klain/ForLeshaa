@@ -15,9 +15,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XES-ff-bab">
-                                <rect key="frame" x="184" y="413" width="46" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XES-ff-bab">
+                                <rect key="frame" x="184" y="433" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                                 <connections>
                                     <action selector="show:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kch-9c-sjL"/>
@@ -46,6 +45,8 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="sgj-eA-brX" secondAttribute="bottom" constant="25" id="hnH-Xq-QfJ"/>
                             <constraint firstItem="sgj-eA-brX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="756" id="jlz-lT-2ns"/>
                             <constraint firstItem="sgj-eA-brX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="35" id="mUi-RY-fN4"/>
+                            <constraint firstItem="XES-ff-bab" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="qC5-Vl-u4e"/>
+                            <constraint firstItem="XES-ff-bab" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ymk-2n-S15"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
